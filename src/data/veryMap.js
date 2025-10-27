@@ -251,4 +251,5 @@ export const veryMap = {
   artificial: ["synthetic", "manufactured", "fake", "man-made", "simulated"],
   fresh: ["crisp", "new", "invigorating", "unspoiled", "pristine"],
   stale: ["musty", "moldy", "rancid", "outdated", "lifeless"],
+  frolic: ["playful", "lively", "merry", "jovial", "lighthearted"],
 };
