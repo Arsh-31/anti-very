@@ -252,4 +252,12 @@ export const veryMap = {
   fresh: ["crisp", "new", "invigorating", "unspoiled", "pristine"],
   stale: ["musty", "moldy", "rancid", "outdated", "lifeless"],
   frolic: ["playful", "lively", "merry", "jovial", "lighthearted"],
+  fabulous: [
+    "tremendous",
+    "stupendous",
+    "prodigious",
+    "phenomenal",
+    "remarkable",
+    "astounding",
+  ],
 };
