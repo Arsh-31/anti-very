@@ -260,4 +260,6 @@ export const veryMap = {
     "remarkable",
     "astounding",
   ],
+  nice: ["amiable", "congenial", "affable", "delightful", "pleasurable"],
+  pretty: ["pulchritudinous", "resplendent", "exquisite", "radiant", "winsome"],
 };
