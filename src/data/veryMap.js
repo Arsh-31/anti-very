@@ -276,4 +276,6 @@ export const veryMap = {
   ],
   nice: ["amiable", "congenial", "affable", "delightful", "pleasurable"],
   pretty: ["pulchritudinous", "resplendent", "exquisite", "radiant", "winsome"],
+  confused: ["perplexed", "bewildered", "baffled", "puzzled", "disoriented"],
+  excited: ["thrilled", "exhilarated", "animated", "eager", "amped"],
 };
